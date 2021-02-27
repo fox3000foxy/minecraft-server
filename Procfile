@@ -1,1 +1,1 @@
-web: java -jar server.jar 25565
+web: java -jar server.jar 8080
